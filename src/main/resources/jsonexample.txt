@@ -1,0 +1,26 @@
+{
+	"description":"test",
+	"products":{
+		"WZ/TOWARY/2020/2/1":{
+			"productCode":"kodA",
+			"productQuantity":"4"
+			},
+		"WZ/TOWARY/2020/2/2":{
+			"productCode":"kodB",
+			"productQuantity":"355"
+			},
+		"WZ/TOWARY/2020/2/3":{
+			"productCode":"kodC",
+			"productQuantity":"44"
+			},
+		"WZ/TOWARY/2020/2/4":{
+			"productCode":"kodD",
+			"productQuantity":"2"
+			},
+		"WZ/TOWARY/2020/2/5":{
+			"productCode":"kodE",
+			"productQuantity":"142"
+			}
+		}
+	}
+}
