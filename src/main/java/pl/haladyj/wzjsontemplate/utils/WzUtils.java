@@ -64,9 +64,10 @@ public class WzUtils {
 
         String sn = createSn();
 
-        /*products
+/*        products
                 .entrySet()
                 .stream()
+                .filter()
                 .forEach(result -> {
                     Long index = 1L;
                     String key = sn + "/" + index.toString();
@@ -75,11 +76,9 @@ public class WzUtils {
                 });*/
 
         products.forEach((k, v) -> {
-
             changedKeyMap.put(sn + '/' + index++, v);
-
         });
-
+        index = 1L;
         return changedKeyMap;
     }
 }
