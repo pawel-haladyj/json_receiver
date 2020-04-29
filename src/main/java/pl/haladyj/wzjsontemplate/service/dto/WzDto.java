@@ -3,7 +3,6 @@ package pl.haladyj.wzjsontemplate.service.dto;
 import pl.haladyj.wzjsontemplate.payload.WzContent;
 
 import java.time.Instant;
-import java.util.Date;
 import java.util.Map;
 
 public class WzDto {

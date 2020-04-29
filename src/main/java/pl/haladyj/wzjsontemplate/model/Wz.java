@@ -1,6 +1,5 @@
 package pl.haladyj.wzjsontemplate.model;
 
-import org.springframework.data.annotation.CreatedDate;
 import pl.haladyj.wzjsontemplate.payload.WzContent;
 
 import javax.persistence.*;

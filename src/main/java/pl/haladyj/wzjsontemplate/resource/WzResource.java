@@ -10,7 +10,6 @@ import pl.haladyj.wzjsontemplate.service.dto.WzDto;
 public class WzResource {
 
     private final WzService wzService;
-    private WzDto wzDto;
 
     public WzResource(WzService wzService) {
         this.wzService = wzService;
